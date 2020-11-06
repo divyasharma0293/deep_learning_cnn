@@ -1,1 +1,1 @@
-# deep_learning_cnn
+Using dataset which contains all the images of cats and dogs to train the Convolutional Neural Network(CNN) model and then using new images of cat and dog to predict which category it belongs to(Cat/Dog).
